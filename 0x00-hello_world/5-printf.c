@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - its the min fuction
- * Return 0: always 0
+ * main - this is the main fuction
+ *
+ * Return: 0 when succesful
  */
 int main(void)
 {
