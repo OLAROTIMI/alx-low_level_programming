@@ -9,7 +9,7 @@ int main(void)
 
 	for (i = 'a' ; i <= 'z' ; i++)
 		if (i == 'q' || i == 'e')
-			i = i + 1;
+			i = i + 0;
 		else
 			putchar(i);
 	putchar('\n');
