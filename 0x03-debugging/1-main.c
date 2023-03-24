@@ -16,9 +16,9 @@ int main(void)
 	/*{*/
 		/*putchar(i);*/
 	/*}*/
-
-	
+	/* yy*/
 	printf("Infinite loop avoided! \\o/\n");
+
 
 	return (0);
 }
